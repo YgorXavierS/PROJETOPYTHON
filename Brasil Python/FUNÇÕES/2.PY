@@ -9,7 +9,9 @@ Faça um programa para imprimir:
         .....
         1   2   3   ...  n
 '''
-
+'''
+COMIT FAKE TESTE
+'''
 def canc(n):
     for item in range(n):
         for item_second in range(n):
